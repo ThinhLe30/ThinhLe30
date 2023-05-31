@@ -14,8 +14,8 @@
 🌱 &nbsp;I'm on track for learning more about Software Engineering, Web develop and more Framework.\
 ✍️ &nbsp;In my free time, I pursue Producing Music, enjoy my music at my channel [Youtube](https://www.youtube.com/channel/UC1Exd13I1cDSFFiknGR1-wg) [SoundCloud](https://soundcloud.com/th-nh-l-861369035) and Playing Soccer as hobbies.\
 💬 &nbsp;Feel free to reach out to me for some interesting discussion.\
-✉️ &nbsp;You can shoot me an email at thinhmnsd2002@gmail.com! I'll try to respond as soon as I can.\
-📄 &nbsp;Please have a look at my [Résumé](https://acrobat.adobe.com/id/urn:aaid:sc:AP:7f1da7f3-7743-4475-8d6e-b465191f1670) for more details about me. I'm open to feedback and suggestions!
+✉️ &nbsp;You can shoot me an email at brooklyn.dev2002@gmail.com! I'll try to respond as soon as I can.\
+📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1cz3yUYv5oAEe5KSzEGTF5upE15WfTwkd/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
